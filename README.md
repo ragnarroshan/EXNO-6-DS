@@ -19,8 +19,8 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
  ```
-Name : BALASURIYA M
-Register Number : 212224240021
+Name : kirthick roshan j
+Register Number : 212223040097
 ```
  ```
 import seaborn as sns
